@@ -1,0 +1,14 @@
+layout_spectrum: 0.08484597061760724
+typography_spectrum: 0.7940257219597697
+color:
+  brandStrength: 0.23289997270330787
+  lightness: 0.31345293135382235
+  saturation: 0.4962713255081326
+  rhythmicContrast: 0.6828195780981332
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+name: luminous mops
