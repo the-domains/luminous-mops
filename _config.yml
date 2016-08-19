@@ -6,9 +6,9 @@ color:
   saturation: 0.4962713255081326
   rhythmicContrast: 0.6828195780981332
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: luminous mops
